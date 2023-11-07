@@ -32,4 +32,5 @@ models.
 And these lead to some potentialities for future experiments: first we can
 examine how the models behave when we feed them with exactly the same data,
 and we will separate the weights and biases, and focus on the weights with
-more detail.
+more detail. Also we can plot the Non IID and IID together to see how they
+compare.
